@@ -1,0 +1,20 @@
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.exe.config
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.exe
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.pdb
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.csprojResolveAssemblyReference.cache
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.Form1.resources
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.Properties.Resources.resources
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.csproj.GenerateResource.Cache
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.exe
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.pdb
+c:\users\michel\documents\visual studio 2015\Projects\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MySql.Data.dll
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.exe.config
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.exe
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.pdb
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.exe
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MEDIATHEQUE.pdb
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\bin\Debug\MySql.Data.dll
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.csprojResolveAssemblyReference.cache
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.Form1.resources
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.Properties.Resources.resources
+C:\Users\MICHEL\Desktop\MEDIATHEQUE\MEDIATHEQUE\obj\Debug\MEDIATHEQUE.csproj.GenerateResource.Cache

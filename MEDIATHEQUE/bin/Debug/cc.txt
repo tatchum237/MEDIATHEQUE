@@ -1,0 +1,28 @@
+DELIMITER @@
+ CREATE  PROCEDURE ajouterentree( P_ref VARCHAR(10), P_qte INT, P_pu INT )
+   BEGIN
+                 declare v_desig VARCHAR(50);
+
+                 SELECT designation
+                 into v_desig
+                 from Produit
+                 where ref = P_ref;
+
+                 insert into entree
+                 values (null,v_desig , P_ref , P_pu, P_qte);
+
+                 update Produit
+                 set stock = stock + P_qte
+                 where ref = P_ref;
+
+
+end@@
+delimiter;  
+
+
+faire une fon,ction qui prend en entre un tableau de lettre et retourne un
+tableau de 2 dimension   tabb[n,1]
+    
+
+
+https://github.com/tatchum237/HUFFMAN-C-/blob/master/Arbre.cs
